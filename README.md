@@ -3,7 +3,7 @@
 ### Giới thiệu 👋
 Xin chào! Mình là Trương Huệ Tú, hiện tại mình là sinh viên năm 3 tại Đại học Huflit, chuyên ngành Công nghệ phần mềm. Mình đam mê công nghệ và thiết kế, đặc biệt là UX/UI.
 
-![Ảnh nền](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtfl9a1Ugr0N8I7i3WdsKUxKQjl0zKr7A0_r0Sv9DamTHChmJtQ0UqF5fEIut7TYj7yQRMka4l9rBKoJaomgkl8cmkwHlNXSpY0ZrtivZjyY31OaMLvAOifmTe17M4-j2dZMrOp4lS1lpkjMogGxOQrHdV7HEAfybss4anvkGNItWG544C6DaMZz6c/s960/Cherry%20blossom%20live%20wallpaper%204.gif)
+![Ảnh nền](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ6Z2IxdW5hdXNiaXNxbDVmOXFyNWdtZm4xanNvcXkxOGhscGwzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aer096d3vD4rYVsgNn/giphy.webp)
 
 
 ### Học vấn 🎓
