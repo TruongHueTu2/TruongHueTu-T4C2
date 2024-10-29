@@ -3,7 +3,7 @@
 ### Giới thiệu 👋
 Xin chào! Mình là Trương Huệ Tú, hiện tại mình là sinh viên năm 3 tại Đại học Huflit, chuyên ngành Công nghệ phần mềm. Mình đam mê công nghệ và thiết kế, đặc biệt là UX/UI.
 
-![Ảnh mẫu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnhuhoaphat.com%2F999-hinh-anh-loi-cam-on-chan-thanh-xuat-phat-tu-trai-tim%2F&psig=AOvVaw0gnvLWte8G-W6E-YTOrrOx&ust=1730301803090000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOitptXys4kDFQAAAAAdAAAAABAE))
+![Ảnh nền](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F577375614746171828%2F&psig=AOvVaw0v8161COjBDf1VMiv3T8o5&ust=1730302236113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDLyKL0s4kDFQAAAAAdAAAAABAE)
 
 
 ### Học vấn 🎓
@@ -32,4 +32,4 @@ Sau khi tốt nghiệp, mình mong muốn được làm việc trong lĩnh vực
 - **Điện thoại**: 0825522902 📞
 - **Facebook**: [Trương Huệ Tú](link) 📘
 
-![Ảnh cảm ơn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnhuhoaphat.com%2F999-hinh-anh-loi-cam-on-chan-thanh-xuat-phat-tu-trai-tim%2F&psig=AOvVaw0gnvLWte8G-W6E-YTOrrOx&ust=1730301803090000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOitptXys4kDFQAAAAAdAAAAABAE))
+![Ảnh cảm ơn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnhuhoaphat.com%2F999-hinh-anh-loi-cam-on-chan-thanh-xuat-phat-tu-trai-tim%2F&psig=AOvVaw0gnvLWte8G-W6E-YTOrrOx&ust=1730301803090000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOitptXys4kDFQAAAAAdAAAAABAE)
